@@ -1,15 +1,20 @@
 
-## College acceptance prediction and College Major data
-College acceptance rate is a machine learnind model to predict the acceptance rate of a school. Model such as regression, random forest are used to compare their perfromances.
+## College Acceptance Prediction and College Major Data
+This project attempts to achieve two things.
+1. Model and predict acceptence rates of universities
+2. Analyze college majors, their employment rate, and salaries
 
-## Reqs
-* Python (prefer 3x)
+## Requirements
+* Python
 * numpy 
+* scikit-learn
 * pandas (Recommend using anaconda distribution of python 3)
-* Can get either libraries with pip
-Can also use colab from google to run program  
-* [Colab](https://colab.research.google.com/notebooks/welcome.ipynb)
 
+## Data Sources
+* [College Major Data](https://www.kaggle.com/wsj/college-salaries)
+* [College Acceptance Prediction](https://www.kaggle.com/sumithbhongale/american-university-data-ipeds-dataset/home#IPEDS_data.xlsx)
 
-## College Major data
+## College Major Data
 Analysis of effect of different metrics on college graduates salaries. The impact of the college major, school and region where student studied on salary. 
+
+## Acceptance Rate Prediction
